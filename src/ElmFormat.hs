@@ -1,4 +1,4 @@
-{-# OPTIONS_GHC -Wall #-}
+-- {-# OPTIONS_GHC -Wall #-}
 module ElmFormat where
 
 import Prelude hiding (putStr, putStrLn)
